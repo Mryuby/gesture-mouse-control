@@ -54,7 +54,7 @@ HEADLESS_MODE = False     # 无窗口模式（True=后台运行）
 
 ## 📋 环境要求
 
-- Python 3.7+
+- Python 3.10 + OpenCV + MediaPipe + PyAutoGUI 
 - 摄像头
 
 ## 🛠️ 技术栈
